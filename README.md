@@ -5,7 +5,7 @@ https://nelisthomas.github.io/Ola-Fresco/
 ## Person(s) involved in the Project.# OlaFresco
 
 
-- Lilie, Dop, Thomas and Lokey 
+- Lily, Dop, Thomas and Locky 
 
 ## Scope of the Project.
 
