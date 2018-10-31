@@ -57,8 +57,17 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 # Wireframe
 
 ## Landing Page
-![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Capture%20d%E2%80%99%C3%A9cran%202018-10-30%20%C3%A0%2015.41.36.png?raw=true)
-![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Capture%20d%E2%80%99%C3%A9cran%202018-10-30%20%C3%A0%2016.12.18.png?raw=true)
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Landing%20page.png?raw=true)
+## Personal Info
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/UserInfo.png?raw=true)
+## Food Preferences
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/preference.png?raw=true)
+## Order History
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Historic.png?raw=true)
+## Payment
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/ConifrmPage.png?raw=true)
+## Admin - Search dishes
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/updateMeals.png?raw=true)
 
 # Mockup
 
