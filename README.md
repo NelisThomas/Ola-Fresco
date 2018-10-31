@@ -19,7 +19,7 @@ https://nelisthomas.github.io/Ola-Fresco/
 3. Mockup files of the styled wireframes along with png images of said mockups.
 
 
-# Scope of the Project.
+# Scope of the Project
 
 
 ## Site Description
