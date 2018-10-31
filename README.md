@@ -12,6 +12,11 @@ https://nelisthomas.github.io/Ola-Fresco/
 
 - [Thomas Nelis](https://github.com/NelisThomas)
 
+## Content
+
+1. A UML file showing the flow of the design.
+2. A wireframe of the proposed design
+3. Mockup files of the styled wireframes along with png images of said mockups.
 
 
 # Scope of the Project.
@@ -45,15 +50,11 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
  * Edit social media links.
 
 
-
-
-## Content
-
-1. A UML file showing the flow of the design.
-2. A wireframe of the proposed design
-3. Mockup files of the styled wireframes along with png images of said mockups.
-
-## image of uml flow
+## UML
 
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/UML/UML.png)
+
+## Wireframe
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Capture%20d%E2%80%99%C3%A9cran%202018-10-30%20%C3%A0%2015.41.36.png?raw=true)
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Capture%20d%E2%80%99%C3%A9cran%202018-10-30%20%C3%A0%2016.12.18.png?raw=true)
 
