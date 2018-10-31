@@ -38,5 +38,5 @@ The code was written as part of an assignment in class.
 
 ## image of uml flow
 
-![](UML.png)
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/UML/UML.png)
 
