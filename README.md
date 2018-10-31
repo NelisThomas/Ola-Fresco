@@ -37,7 +37,6 @@ The code was written as part of an assignment in class.
  Below is an image of the ulm chart flow
 
 ## image of uml flow
-![alt text] (https://github.com/NelisThomas/Ola-Fresco/blob/master/flow.png)
 
-![Screenshot](flow.png)
+![Screenshot](UML.png)
 
