@@ -52,7 +52,7 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 
 ## UML
 
-![](https://github.com/NelisThomas/Ola-Fresco/blob/master/UML/UML.png)
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/UML/UML.png?raw=true)
 
 # Wireframe
 
@@ -64,6 +64,8 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/preference.png?raw=true)
 ## Order History
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Historic.png?raw=true)
+## Account Settings
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/AccountSettings.png?raw=true)
 ## Payment
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/ConifrmPage.png?raw=true)
 ## Admin - Search dishes
@@ -79,6 +81,8 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/Food_preference.png?raw=true)
 ## Order History
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/Historic.png?raw=true)
+## Account Settings
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/AccountSettings.png?raw=true)
 ## Payment
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/paymentPage.png?raw=true)
 ## Admin - Edit dish
