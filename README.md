@@ -4,13 +4,15 @@ https://nelisthomas.github.io/Ola-Fresco/
 
 ## Person(s) involved in the Project.# OlaFresco
 
-[Lily Danhaive](https://github.com/LilyDa08)
+- [Lily Danhaive](https://github.com/LilyDa08)
 
-[Dop Daiga](https://github.com/DopDaiga)
-[Locky](https://github.com/LockyBounty)
-[Thomas Nelis](https://github.com/NelisThomas)
+- [Dop Daiga](https://github.com/DopDaiga)
 
-- Lily, Dop, Thomas and Locky 
+- [Locky](https://github.com/LockyBounty)
+
+- [Thomas Nelis](https://github.com/NelisThomas)
+
+
 
 ## Scope of the Project.
 
