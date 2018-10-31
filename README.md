@@ -8,7 +8,7 @@ https://nelisthomas.github.io/Ola-Fresco/
 
 - [Dop Daiga](https://github.com/DopDaiga)
 
-- [Locky](https://github.com/LockyBounty)
+- [Locky Bounthieng](https://github.com/LockyBounty)
 
 - [Thomas Nelis](https://github.com/NelisThomas)
 
