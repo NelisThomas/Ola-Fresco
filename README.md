@@ -70,6 +70,8 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/AccountSettings.png?raw=true)
 ## Admin - Search dishes
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/updateMeals.png?raw=true)
+## Admin - Statistics
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Statistics.png?raw=true)
 
 # Mockup
 
