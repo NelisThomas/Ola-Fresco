@@ -2,7 +2,7 @@
 https://nelisthomas.github.io/Ola-Fresco/
 
 
-## Person(s) involved in the Project.# OlaFresco
+## People involved in the project
 
 - [Lily Danhaive](https://github.com/LilyDa08)
 
@@ -54,7 +54,12 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/UML/UML.png)
 
-## Wireframe
+# Wireframe
+
+## Landing Page
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Capture%20d%E2%80%99%C3%A9cran%202018-10-30%20%C3%A0%2015.41.36.png?raw=true)
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Capture%20d%E2%80%99%C3%A9cran%202018-10-30%20%C3%A0%2016.12.18.png?raw=true)
 
+# Mockup
+
+## Landing Page
