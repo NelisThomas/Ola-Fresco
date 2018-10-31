@@ -58,6 +58,8 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 
 ## Landing Page
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Landing%20page.png?raw=true)
+## Payment
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/ConifrmPage.png?raw=true)
 ## Personal Info
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/UserInfo.png?raw=true)
 ## Food Preferences
@@ -66,8 +68,6 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/Historic.png?raw=true)
 ## Account Settings
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/AccountSettings.png?raw=true)
-## Payment
-![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/ConifrmPage.png?raw=true)
 ## Admin - Search dishes
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Wireframe/updateMeals.png?raw=true)
 
@@ -75,6 +75,8 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 
 ## Landing Page
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/LandingPageLogos.png?raw=true)
+## Payment
+![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/paymentPage.png?raw=true)
 ## Personal Info
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/UserSetting.png?raw=true)
 ## Food Preferences
@@ -83,7 +85,5 @@ Ola Fresco(OF) is a website that offers a wide variety of dishes to the user. OF
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/Historic.png?raw=true)
 ## Account Settings
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/AccountSettings.png?raw=true)
-## Payment
-![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/paymentPage.png?raw=true)
 ## Admin - Edit dish
 ![](https://github.com/NelisThomas/Ola-Fresco/blob/master/Mockup/PNG%20Final/admin_v3.png?raw=true)
